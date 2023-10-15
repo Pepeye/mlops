@@ -1,4 +1,9 @@
-# Edit at https://www.toptal.com/developers/gitignore?templates=rust,python,jupyternotebooks,virtualenv
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
