@@ -18,6 +18,5 @@ This notebook will also be used to test modern databases
 
 - [edgedb-tokio](https://crates.io/crates/edgedb-tokio)
 - [surrealdb](https://crates.io/crates/surrealdb)
-- [redis](https://crates.io/crates/redis)
 - [sqlx](https://crates.io/crates/sqlx)
 - [libsql-client](https://crates.io/crates/libsql-client)
